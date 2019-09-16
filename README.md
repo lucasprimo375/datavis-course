@@ -1,3 +1,6 @@
+## Aula do dia 09/09/2019
+[notebook.html](d3_scale/notebook.html)<br>
+
 ## Aula do dia 04/09/2019
 [cell.html](d3_intro/cell.html)<br>
 [notebook.html](d3_intro/full-notebook.html)<br>
