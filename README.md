@@ -1,3 +1,6 @@
+## Aula do dia 24/09/2019
+[crossfilter_2.html](d3_crossfilter_2/crossfilter_2.html)<br>
+
 ## Aula do dia 23/09/2019
 [crossfilter.html](d3_crossfilter/crossfilter.html)<br>
 
