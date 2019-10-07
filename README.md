@@ -1,5 +1,6 @@
 ## Aula do dia 30/09/2019
 [leaflet.html](d3_leaflet/leaflet.html)<br>
+[crimes_em_chicago.html](d3_leaflet/crimes_em_chicago.html)<br>
 
 ## Aula do dia 24/09/2019
 [crossfilter_2.html](d3_crossfilter_2/crossfilter_2.html)<br>
