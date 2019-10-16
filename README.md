@@ -1,3 +1,6 @@
+## Aula do dia 16/10/2019
+[color.html](d3_color/color.html)<br>
+
 ## Aula do dia 09/10/2019
 [network.html](d3_network/network.html)<br>
 [les_miserables.html](d3_network/les_miserables.html)<br>
