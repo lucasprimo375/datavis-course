@@ -1,5 +1,6 @@
 ## Aula do dia 16/10/2019
 [color.html](d3_color/color.html)<br>
+[homicidios_em_fortaleza.html](d3_color/homicidios_em_fortaleza.html)<br>
 
 ## Aula do dia 09/10/2019
 [network.html](d3_network/network.html)<br>
